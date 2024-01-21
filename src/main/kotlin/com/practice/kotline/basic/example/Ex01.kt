@@ -1,4 +1,4 @@
-package com.practice.kotline.basic.ex01
+package com.practice.kotline.basic.example
 
 /* primitive type, reference type 두 가지를 어떻게 표현하고 있는가? */
 /*
